@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRryeCNkySogicOsQymu7vyE95L/PGn98ea8ssxg0AO9Bp7Kly15RCT9WBoKFd2Wp1RNq2V9VttyUropwW8ceA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\estudos\\ConsomeFilaProject\\ConsomeFilaProject\\ConsomeFilaProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

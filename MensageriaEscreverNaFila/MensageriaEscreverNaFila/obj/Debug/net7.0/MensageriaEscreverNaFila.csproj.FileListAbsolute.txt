@@ -1,0 +1,68 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\appsettings.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.MensageriaEscreverNaFila.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.build.MensageriaEscreverNaFila.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MensageriaEscreverNaFila.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MensageriaEscreverNaFila.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\scopedcss\bundle\MensageriaEscreverNaFila.styles.css
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\refint\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\ref\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\appsettings.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\MensageriaEscreverNaFila.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.MensageriaEscreverNaFila.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.build.MensageriaEscreverNaFila.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MensageriaEscreverNaFila.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MensageriaEscreverNaFila.props
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\scopedcss\bundle\MensageriaEscreverNaFila.styles.css
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\refint\MensageriaEscreverNaFila.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\MensageriaEscreverNaFila.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\Mensageria - RABBITMQ\MensageriaEscreverNaFila\MensageriaEscreverNaFila\obj\Debug\net7.0\ref\MensageriaEscreverNaFila.dll

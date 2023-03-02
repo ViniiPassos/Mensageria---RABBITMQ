@@ -1,0 +1,17 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\bin\Debug\net7.0\ConsomeFilaProject.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\bin\Debug\net7.0\ConsomeFilaProject.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\bin\Debug\net7.0\ConsomeFilaProject.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\bin\Debug\net7.0\ConsomeFilaProject.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\bin\Debug\net7.0\ConsomeFilaProject.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\refint\ConsomeFilaProject.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ConsomeFilaProject.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\estudos\ConsomeFilaProject\ConsomeFilaProject\obj\Debug\net7.0\ref\ConsomeFilaProject.dll
